@@ -1,5 +1,5 @@
 
-# Data Science Repository
+# Data Science repository
 
 Welcome to the Data Science Repository! This repository contains Jupyter Notebooks showcasing Python code for data visualization and data analysis. Whether you're new to data science or an experienced practitioner, you'll find valuable resources and code examples here to explore and analyze datasets effectively.
 
